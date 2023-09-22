@@ -10,18 +10,22 @@ header .container {
   align-items: center;
 }
 
+h1 {
+  font-size: 3rem;
+}
+
 .botoes {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .btn {
-  font-size: 1rem;
+  font-size: 3rem;
   padding: 0.5rem;
   border-radius: 3rem;
-  width: 3rem;
-  height: 3rem;
+  width: 4rem;
+  height: 4rem;
   display: flex;
   align-items: center;
   justify-content: center;
