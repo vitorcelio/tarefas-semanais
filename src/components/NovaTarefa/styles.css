@@ -1,0 +1,10 @@
+.input-tarefa {
+  padding: .2rem;
+  font-size: .8rem;
+  outline: none;
+  font-family: "SuisseIntl-Regular";
+}
+
+.input-tarefa::placeholder {
+  color: rgba(209, 209, 209, 0.753);
+}
